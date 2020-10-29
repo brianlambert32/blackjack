@@ -177,7 +177,7 @@ while toContinue:
                     toContinue = False
                     playerWin = "Win"
                     break
-#not a necessary add in for this ^, but could be used for a similar implementation
+
             elif answer == "stay":
                 print("\nPlayer chooses to stay")
                 print("\nPlayer has :", playercard)
